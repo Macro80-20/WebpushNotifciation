@@ -1,7 +1,7 @@
 var url = 'http://localhost:8080/subscribe';
 
 //Vapid public key.
-var applicationServerPublicKey = 'BPeXvOlLmOPXjYKOz03cFnQNnj25PHS9YVZn9vwJGCT1YRYNn2FJBjpDPvhPooTHdBezqIS_-bAEBQn6vn2nep8';
+var applicationServerPublicKey = 'BF74g6Q4ZZXX7slvsJ8IM7VnX9xkiXjf-14OylWHeuMv0sOOwhDZaKHschRdlP8Ey3a9h0uEacKmNmlVae1ZzHk'
 
 var serviceWorkerName = 'sw.js';
 
